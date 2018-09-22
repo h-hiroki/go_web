@@ -1,0 +1,2 @@
+ERROR 2018/09/23 03:34:05 utils.go:102: sql: no rows in result set Cannot find user
+WARNING 2018/09/23 03:35:42 utils.go:107: <nil> Failed to get cookie
